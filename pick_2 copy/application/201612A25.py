@@ -24,9 +24,5 @@ skipped_number(9)
 skipped_number(10)
 skipped_number(11)
 skipped_number(12)
-skipped_number(13)
-skipped_number(14)
-skipped_number(15)
-skipped_number(16)
 
 #This is on github xD
